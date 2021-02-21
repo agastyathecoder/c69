@@ -42,7 +42,13 @@ input
 .movie_head span{
     color:#ff7700;
 }
-
+.enviroment_li{
+    margin-top: 13px;
+}
+.enviroment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
 
 
 
